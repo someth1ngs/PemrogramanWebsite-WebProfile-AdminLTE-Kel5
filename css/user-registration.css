@@ -1,0 +1,95 @@
+user-registration.css .sign-up-container {
+    border: 1px solid;
+    border-color: #9a9a9a;
+    background: #fff;
+    border-radius: 4px;
+    padding: 10px;
+    width: 350px;
+    margin: 50px auto;
+}
+
+.page-header {
+    float: right;
+}
+
+.login-signup {
+    margin: 10px;
+    text-decoration: none;
+    float: right;
+}
+
+.login-signup a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.signup-heading {
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.row {
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.form-label {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+input.input-box-330 {
+    width: 250px;
+}
+
+.sign-up-container .error-field {
+    border: 1px solid #3baa57;
+}
+
+.sign-up-container .error:before {
+    content: '*';
+    padding: 0 3px;
+    color: #23a55e;
+}
+
+.error-msg {
+    padding: 7px 10px;
+    background: #b6f5a3;
+    border: #a1ffb1 1px solid;
+    color: #2fb82f;
+    border-radius: 4px;
+    margin: 30px 10px 10px 10px;
+    text-align: center;
+}
+
+.success-msg {
+    padding-top: 10px;
+    color: #176701;
+    text-align: center;
+    font-size: 200%;
+}
+
+input.btn {
+    width: 25%;
+}
+
+.signup-align {
+    margin: 0 auto;
+}
+
+.error-info {
+    color: #000 !important;
+    float: left;
+}
+
+.page-content {
+    font-weight: bold;
+    padding-top: 60px;
+    text-align: center;
+}
